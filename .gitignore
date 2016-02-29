@@ -1,0 +1,14 @@
+# Ignore bundler config.
+/.bundle
+
+config/*.yml
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+
+*.swp
+*.swo
+*.swn
+*~

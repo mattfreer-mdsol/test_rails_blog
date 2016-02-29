@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-
 gem 'rails', '4.2.5.1'
 gem 'mysql2', '~> 0.3.0'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
+gem 'dice_bag'
 
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
